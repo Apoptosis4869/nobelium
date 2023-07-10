@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Apoptosis4869',
-  author: 'Apoptosis4869',
+  title: 'Notes',
+  author: 'Aptx4869',
   email: 'atpexg.o@gmail.com',
   link: 'https://blog.002887.xyz',
   description: 'それが誰に分かる？',
